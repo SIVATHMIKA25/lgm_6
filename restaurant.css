@@ -1,0 +1,56 @@
+.abc ul li{
+    width:100px;
+    float:right;
+}
+.abc ul li a{
+    color:white;
+}
+h1{
+    color:white;
+}
+h2{
+    color:black;
+  }
+#dosa{
+    padding-left:250px;
+    margin-top:-317px;
+}
+#vada{
+    padding-left:500px;
+    margin-top:-319px; 
+}
+#poori{
+    padding-left:750px;
+    margin-top:-320px;
+}
+#noodles{
+    padding-left:1000px;
+    margin-top:-320px;
+}
+b{
+    color:black;
+}
+#about{
+    width:1250px;
+    height:200px;
+    background-color:burlywood;
+}
+p{
+  font-size:x-large;
+}
+large{
+    font-size:xx-large;
+    background-color:white;
+}
+#time{
+    width:1250px;
+    height:150px;
+    background-color:black;
+}
+li{
+    font-size:x-large;
+    color:white;
+}
+b{
+    font-size: x-large;
+}
